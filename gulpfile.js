@@ -12,6 +12,8 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var concat = require('gulp-concat');
 sass.compiler = require('node-sass');
+
+// change from scss to css
 gulp.task('sass', function () {
     return gulp.src('./sass/**/*.scss')
         .pipe(concat('custom.scss'))
