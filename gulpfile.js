@@ -18,6 +18,10 @@ gulp.task('sass', function () {
         .pipe(sass().on('error', sass.logError))
         .pipe(gulp.dest('./dist/custom.css'));
 });
+
+
+//  auto watch for changes on scss and auto compile to CSS
+
 gulp.task('sass:watch', function () {
     gulp.watch('./sass/**/*.scss', ['sass']);
 });
