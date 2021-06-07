@@ -8,7 +8,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** https://allidoiscode1234.github.io/buildium-social-dashboard/
 
-![alt tag](https://imgur.com/OLm9Xsk)
+![alt tag](https://i.imgur.com/OLm9Xsk.png)
 
 ## How It's Made:
 
