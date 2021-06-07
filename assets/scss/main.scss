@@ -69,7 +69,7 @@ variables
     border: none;
   }
   h1 {
-    margin: 0;
+    margin-bottom: .45%;
     font-size: 2rem;
   }
   h2 {
@@ -120,7 +120,7 @@ variables
         flex-direction: row;
       }
       .heading {
-        margin: 3em 0 2em 0;
+        margin: 3em 0 5em 0;
         span {
           font-size: 1rem;
         }
@@ -145,10 +145,14 @@ variables
       }
     }
   }
+
+  .logo{
+      margin-bottom: 1%;
+  }
   
   /** content **/
   .content {
-    margin-top: -6.5rem;
+    margin-top: -3rem;
     .principal {
       display: flex;
       flex-direction: column;
