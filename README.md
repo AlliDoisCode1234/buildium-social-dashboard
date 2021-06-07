@@ -1,10 +1,10 @@
 ## Welcome! 👋
 
-This project was built for the purpose of enhancing Buildium's (https://www.buildium.com/) social media precense 
+This project was built for the purpose of enhancing Buildium's (https://www.buildium.com/) social media presence on their web application.  
 
 
 # My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+Showcasing the Light/Dark mode toggle, social media trends, and a dashboard type design, this project establishes a clear prioritization of Buildium's consumer analytics to improve core aspects, continuing Buildium's forward trajectory. 
 
 **Link to project:** https://allidoiscode1234.github.io/buildium-social-dashboard/
 
@@ -14,16 +14,16 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** HTML, SCSS, GULP, JavaScript, 
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Framing the HTML with best practices, writing SCSS with variables to keep consistency, while compiling with GULP and writing clean javascript to ensure functionality. UI/UX is an art these days, and I wanted to use a really cool design to highlight Buildium's social expansion. 
 
 ## Optimizations
 *(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Moving from CSS to SCSS allowed for a more uniformed design with scalability in mind. Thinking about automating the data from realtime statistics, the dashboard was created to inspire both the consumer towards security in your company and the company towards constant improvement.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Even when building a user friendly dashboard, thinking about the end goal will always improve early stage refactoring and thus increase the accessibility of the system design. 
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
