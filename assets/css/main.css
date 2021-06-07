@@ -24,13 +24,7 @@ variables
   --toggle-button-color: #ffffff;
   --dark-mode-hover: var(--toggle-color);
   /* dimensions */
-  --box-width: 23%;
-  --mouse-x: 0px;
-  --mouse-y: 0px; }
-
-.mover {
-  left: var(--mouse-x);
-  top: var(--mouse-y); }
+  --box-width: 23%; }
 
 .dark-mode {
   /* colors */
