@@ -17,7 +17,6 @@ Showcasing the Light/Dark mode toggle, social media trends, and a dashboard type
 Framing the HTML with best practices, writing SCSS with variables to keep consistency, while compiling with GULP and writing clean javascript to ensure functionality. UI/UX is an art these days, and I wanted to use a really cool design to highlight Buildium's social expansion. 
 
 ## Optimizations
-*(optional)*
 
 Moving from CSS to SCSS allowed for a more uniformed design with scalability in mind. Thinking about automating the data from realtime statistics, the dashboard was created to inspire both the consumer towards security in your company and the company towards constant improvement.
 
